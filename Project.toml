@@ -1,0 +1,12 @@
+name = "plotanim"
+uuid = "6c48e7b4-981d-4a97-859b-883d78ad74a3"
+authors = ["mishan88 <mishanhideaki88@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
+[compat]
+Plots = "1.40.18"
+Random = "1.11.0"
